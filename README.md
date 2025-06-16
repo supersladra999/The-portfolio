@@ -1,20 +1,17 @@
-# The-portfolio
-# Portfolio - عبد الرحمان سعديه
+Portfolio – Abderrahmane Saadiya
+Welcome! This repository contains my portfolio showcasing my skills in programming and 3D design.
 
-مرحبًا! هذا المستودع يحتوي على محفظة أعمالي التي تعرض مهاراتي في البرمجة والتصميم ثلاثي الأبعاد.
+Skills:
+Programming with Python and C++
 
-## المهارات:
-- برمجة بلغة Python و C++.
-- تطوير صفحات ويب باستخدام HTML و CSS.
-- تصميم نماذج ثلاثية الأبعاد باستخدام Blender (Low Poly).
-- تنظيم الكود بشكل احترافي وسهل القراءة.
+Web development using HTML and CSS
 
-## المشاريع:
-هنا ستجد أمثلة على مشاريع برمجية وتصميمية قمت بها.  
-أنا متحمس دائمًا لتعلم أشياء جديدة والعمل على مشاريع مبتكرة.
+3D modeling using Blender (Low Poly style)
 
-لأي استفسار أو تعاون، لا تتردد في التواصل معي!
+Clean and well-organized code structure
 
----
+Projects:
+Here you will find examples of coding and design projects I’ve worked on.
+I’m always passionate about learning new things and working on creative projects.
 
-
+If you have any questions or would like to collaborate, feel free to contact me!
